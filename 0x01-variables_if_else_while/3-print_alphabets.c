@@ -10,7 +10,7 @@ int main(void)
 	char i = 'A';
 	char j = 'a';
 	char u, l;
-	
+
 	while (i <= 'Z')
 	{
 		l = tolower(i);
