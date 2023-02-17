@@ -2,7 +2,7 @@
 /**
  * main - Prints a sentence
  *
- * Returns: 1
+ * Return: 1
  */
 int main(void)
 {
