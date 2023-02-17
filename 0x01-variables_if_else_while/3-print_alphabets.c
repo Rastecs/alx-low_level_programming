@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <ctype.c>
+#include <ctype.h>
 /**
  * main - prints alphabets in lower and then in upper
  *
