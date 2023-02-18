@@ -19,11 +19,11 @@ int main(void)
 					putchar(n);
 					putchar(l);
 					putchar(r);
-				}
-				if (n != '7')
-				{
-					putchar(',');
-					putchar(' ');
+					if (n != '7')
+					{
+						putchar(',');
+						putchar(' ');
+					}
 				}
 			}
 		}
