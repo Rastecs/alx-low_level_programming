@@ -13,9 +13,15 @@ int main(void)
 	while (i <= 'Z')
 	{
 		if (i == 'Q')
+		{
 			continue;
+			i++;
+		}
 		else if (i == 'E')
+		{
 			continue;
+			i++;
+		}
 		j = tolower(i);
 		putchar(j);
 		i++;
