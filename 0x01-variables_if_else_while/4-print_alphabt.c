@@ -14,13 +14,13 @@ int main(void)
 	{
 		if (i == 'Q')
 		{
-			continue;
 			i++;
+			continue;
 		}
 		else if (i == 'E')
 		{
-			continue;
 			i++;
+			continue;
 		}
 		j = tolower(i);
 		putchar(j);
