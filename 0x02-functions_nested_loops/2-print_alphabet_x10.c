@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * print_alphabet_x10(void) - prints alphabet 10x in lower
+ * print_alphabet_x10 - prints alphabet 10x in lower
  *
  * Return: none(void)
  */
