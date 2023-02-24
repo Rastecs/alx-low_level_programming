@@ -5,7 +5,7 @@
  *@c: the value/alphabet to be checked
  * Return: 1(upper), 0(lower)
  */
-/* function to check for uppercase characters */
+
 int _isupper(int c)
 {
 	if (c >= 65 && c <= 90)
