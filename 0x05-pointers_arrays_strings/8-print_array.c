@@ -1,7 +1,6 @@
 #include "main.h"
 #include <stdio.h>
 /**
- *
  * print_array - print array
  * @a: pointer to a
  * @n: number of elements
